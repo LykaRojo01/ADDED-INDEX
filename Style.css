@@ -1,0 +1,17 @@
+h2 {
+    background-color: rgb(216, 94, 200);
+    color: rgb(16, 132, 233);
+    opacity: 50%;
+
+}
+h3 {
+    color: rgb(255, 255, 255);
+}
+
+h4 {
+    border-style: dotted dashed solid double;
+}
+
+h5 {
+    border-style: dashed;
+}
